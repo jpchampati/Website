@@ -4,8 +4,8 @@ Create a website about myself and my lab and update it from time to time
 ## Site structure
 
 - `index.html`, `research.html`, `publication.html`, `lab.html`, `news.html`: the main pages (plain HTML; edit them directly).
-- `_pages/team/_posts/`: one Markdown file per group member, rendered at `team/<name>/`.
-- `images/`: profile photo, logo, and team images.
+- `style/`: page styles.
+- `images/`: profile photo and favicon.
 
 ## Publishing
 
