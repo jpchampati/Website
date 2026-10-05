@@ -1,13 +1,13 @@
 ---
 layout: member
-category: undergraduate
+category: student
 title: Bharath Irukulapati
 image: researcher.png
-role: Undergraduate Researcher
+role: Master's Student
 permalink: 'team/bharath-irukulapati'
 education:
- - Undergraduate Researcher
+ - Master's Student, University of Victoria
 ---
 
-Bharath Irukulapati is an undergraduate researcher affiliated with the Edge AI
-Research Group. Additional profile details will be added as the site evolves.
+Bharath Irukulapati worked with the Edge AI Research Group as an undergraduate
+researcher and joined the group as a Master's student in September 2026.
