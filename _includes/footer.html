@@ -1,0 +1,36 @@
+<div id="footer" class="panel">
+  <div class="panel-footer">
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-sm-4">
+				<p>
+					&copy; {{ site.copyright_year }} {{ site.title }}. Site built with
+					<a href="https://jekyllrb.com">Jekyll</a> and based on the
+					<a href="https://github.com/ericdaat/research-lab-website">research lab website template</a>.
+				</p>
+			</div>
+			<div class="col-sm-4">
+				<p>
+					We are part of the
+					<a href="https://www.uvic.ca/ecs/computerscience/">Department of Computer Science</a>
+					at the <a href="https://www.uvic.ca/">University of Victoria</a>.
+					Our work focuses on Edge AI, hierarchical inference, inference
+					offloading, Age of Information, and learning-enabled systems.
+				</p>
+			</div>
+			<div class="col-sm-4">
+				Contact:<br />
+				{{ site.pi_name }}<br />
+				{{ site.pi_role }}<br />
+				{{ site.office }}<br />
+				{{ site.location }}<br />
+				<a href="mailto:{{ site.email }}">{{ site.email }}</a><br />
+				{{ site.phone }}
+			</div>
+		</div>
+	</div>
+  </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="{{ site.url }}{{ site.baseurl }}/js/bootstrap.min.js"></script>
