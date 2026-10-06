@@ -12,7 +12,7 @@ description: >
   Research group led by Jaya Prakash Champati at the University of Victoria.
   We study Edge AI, online learning, Age of Information, and network-aware
   decision systems.
-baseurl: "/Website"
+baseurl: "/website"
 url: "https://jpchampati.github.io"
 pi_name: Jaya Prakash Champati
 pi_role: Assistant Professor, Computer Science
@@ -22,7 +22,7 @@ office: ECS 456
 phone: 250-472-5899
 google_scholar: https://scholar.google.com/citations?user=9zjERPkAAAAJ&hl=en
 current_site_url: https://sites.google.com/site/jayachampati/
-repository_url: https://github.com/jpchampati/Website
+repository_url: https://github.com/jpchampati/website
 hero_image: images/team/jaya-prakash-champati.jpg
 tagline: Reliable, robust, and efficient intelligence at the network edge
 copyright_year: 2026
